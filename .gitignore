@@ -1,0 +1,6 @@
+
+data/albums/*
+data/outputimages/*
+data/targetimages/*
+data/.DS_Store
+.DS_Store
